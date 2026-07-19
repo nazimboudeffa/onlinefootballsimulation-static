@@ -8,10 +8,9 @@ A nostalgic single-player football/soccer management simulation game inspired by
 
 https://github.com/FredericusRadicalus/retroFootballManager
 
-## Deployments
+## Deployment
 
-- https://openfootballmanager.com
-- https://opensoccermanager.com
+https://football.dzair.co
 
 ## 🎮 Features
 
